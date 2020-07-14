@@ -1,5 +1,7 @@
 from bs4 import BeautifulSoup
 import requests
+import numba
+
 
 def crawl_proxies():
     proxies=[]

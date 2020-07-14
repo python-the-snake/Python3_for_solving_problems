@@ -1,4 +1,5 @@
 from speedtest import Speedtest
+import numba
 
 st = Speedtest()
 

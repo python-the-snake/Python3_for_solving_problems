@@ -1,5 +1,6 @@
 from math import sqrt
 from Tkinter import *
+import numba
 
 def solver(a,b,c):
     """ Решает квадратное уравнение и выводит отформатированный ответ """

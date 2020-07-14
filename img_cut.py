@@ -1,4 +1,6 @@
 from PIL import Image
+import numba
+
 
 left = int(input('pixels from left: '))
 upper = int(input('pixels from upper: '))

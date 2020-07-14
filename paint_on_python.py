@@ -1,4 +1,7 @@
-import pygame, random
+import pygame
+import random
+import numba
+
 
 screen = pygame.display.set_mode((800,600))
 
